@@ -7,6 +7,8 @@ The CV pipeline is composed of 4 main steps: 1) image input, 2) image preprocess
 
 [CV Complete information Read then summarize here](https://livebook.manning.com/book/deep-learning-for-vision-systems/chapter-1/v-8/25)
 
+READ books on desktop
+
 ## Summarized form
 Techniques:
 **Thresholding**
