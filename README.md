@@ -11,6 +11,8 @@ https://xd.adobe.com/ideas/principles/emerging-technology/what-is-computer-visio
 
 https://data-flair.training/blogs/computer-vision-techniques/
 
+[tensorflow conmpetition](https://www.youtube.com/watch?v=ya5NwvKafDk&list=TLPQMDkwOTIwMjIs9cEJ8tmsCQ&index=3)
+
 https://www.javatpoint.com/keras
 
 READ books on desktop
